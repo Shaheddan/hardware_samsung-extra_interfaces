@@ -1,6 +1,7 @@
 <manifest version="1.0" type="framework">
     <hal format="aidl">
         <name>vendor.samsung_ext.hardware.camera.flashlight</name>
+        <version>2</version>
         <fqname>IFlashlight/default</fqname>
     </hal>
 </manifest>
