@@ -13,6 +13,11 @@ aidl_interface {
             version: "1",
             imports: [],
         },
+        {
+            version: "2",
+            imports: [],
+        },
     ],
+    frozen: true,
     system_ext_specific: true,
 }
